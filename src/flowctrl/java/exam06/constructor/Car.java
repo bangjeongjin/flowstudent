@@ -1,0 +1,8 @@
+package flowctrl.java.exam06.constructor;
+
+public class Car {
+	//»ý¼ºÀÚ
+	Car(String color, int cc){
+		
+	}
+}
